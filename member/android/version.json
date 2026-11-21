@@ -1,0 +1,11 @@
+{
+    "app":  "member",
+    "platform":  "android",
+    "versionName":  "0.17.88+103",
+    "buildNumber":  103,
+    "url":  "https://github.com/mohammad-al-ali/jovx-releases/raw/main/member/android/jovx-member-staging-103.apk",
+    "sha256":  "a62643c6c164df438a863f981db19b2bb8ee0ec7eccd00896093ce8825dee30d",
+    "sizeBytes":  83517147,
+    "notes":  "إلغاء الفاتورة بموافقة العضو، الإشعارات، بحث المنتجات، تبويبات الموظف",
+    "commit":  "2731613"
+}
