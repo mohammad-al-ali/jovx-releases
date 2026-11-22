@@ -1,11 +1,11 @@
 {
     "app":  "admin",
     "platform":  "android",
-    "versionName":  "0.12.101+103",
-    "buildNumber":  103,
-    "url":  "https://github.com/mohammad-al-ali/jovx-releases/raw/main/admin/android/jovx-admin-staging-103.apk",
-    "sha256":  "4fb65d732e8405985a3a8d8aa2b5c33164b5497b09d9afa732a318eee2783374",
-    "sizeBytes":  78039464,
-    "notes":  "إلغاء الفاتورة بموافقة العضو، الإشعارات، بحث المنتجات، تبويبات الموظف",
-    "commit":  "2731613"
+    "versionName":  "0.12.101+105",
+    "buildNumber":  105,
+    "url":  "https://github.com/mohammad-al-ali/jovx-releases/raw/main/admin/android/jovx-admin-staging-105.apk",
+    "sha256":  "e0fb3b90d9dba2dda20cc5f487e3f3612090e848bd1fb3642445a8df4e69cea8",
+    "sizeBytes":  78711408,
+    "notes":  "إيقاف الشريك وإنهاؤه، فريق الشريك، تقرير النقاط، رسائل للأعضاء وسجلها",
+    "commit":  "3e91ec4"
 }

@@ -1,11 +1,11 @@
 {
     "app":  "member",
     "platform":  "android",
-    "versionName":  "0.17.88+104",
-    "buildNumber":  104,
-    "url":  "https://github.com/mohammad-al-ali/jovx-releases/raw/main/member/android/jovx-member-staging-104.apk",
-    "sha256":  "f264a17ddc14e39e5543013efab9d143bdaff13bdd60a3b9233bbd2c9ecb12e6",
-    "sizeBytes":  83517303,
-    "notes":  "اختيار صور المنتج في شاشة المنتج نفسها",
-    "commit":  "af2dd5f"
+    "versionName":  "0.17.88+105",
+    "buildNumber":  105,
+    "url":  "https://github.com/mohammad-al-ali/jovx-releases/raw/main/member/android/jovx-member-staging-105.apk",
+    "sha256":  "a457f2d7efd6628d6bfa316ea06accc7d6a107a58d13668ed9e1443f77f0cd38",
+    "sizeBytes":  83618407,
+    "notes":  "الإشعارات على الهاتف، فتح المكان الصحيح عند الضغط، كتم الأنواع، اختيار صور المنتج",
+    "commit":  "3e91ec4"
 }
