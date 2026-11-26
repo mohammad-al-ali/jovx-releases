@@ -1,0 +1,11 @@
+{
+  "app": "member",
+  "platform": "android",
+  "versionName": "0.17.88+2002",
+  "buildNumber": 2002,
+  "url": "https://github.com/mohammad-al-ali/jovx-releases/releases/download/member-2002/app.apk",
+  "sha256": "e5377f733b3a7314942c64a353c236017625c908613bed9712918b97da2e422c",
+  "sizeBytes": 67283365,
+  "notes": "Merge branch 'ci/permanent-apk-links'",
+  "commit": "350a767f59dea16cc3b9ad691cd0cdb7bc4251b9"
+}
