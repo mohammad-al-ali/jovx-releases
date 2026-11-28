@@ -1,11 +1,11 @@
 {
   "app": "member",
   "platform": "android",
-  "versionName": "0.17.88+2005",
-  "buildNumber": 2005,
-  "url": "https://github.com/mohammad-al-ali/jovx-releases/releases/download/member-2005/app.apk",
-  "sha256": "8f38939278407d6b6766c53da99ef1d73905735b284a7ffdd74f1baa4db4fe0f",
-  "sizeBytes": 67725589,
-  "notes": "Merge branch 'feat/storage-region'",
-  "commit": "ae8d66d3f52aa8bbd0620551ed43146f9b3b7bfe"
+  "versionName": "0.17.88+2006",
+  "buildNumber": 2006,
+  "url": "https://github.com/mohammad-al-ali/jovx-releases/releases/download/member-2006/app.apk",
+  "sha256": "353db10e8d7dfc229d1687b9adbd163e5c386230d26f40e4d454c39f8004b712",
+  "sizeBytes": 69184121,
+  "notes": "Merge branch 'feat/member-account-feedback'",
+  "commit": "50341d2df0042d777e5d73990c0546c4a56b2e62"
 }
